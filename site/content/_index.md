@@ -1,7 +1,7 @@
 ---
 title: Photography by Jordan Pavey
 subtitle: Snacks for your eyes. Events // Landscapes // Portraits // Weddings
-image: /img/home-jumbotron.jpg
+image: img/about-jumbotron.jpg
 blurb:
   heading: Why Kaldi?
   text: Kaldi is the coffee store for everyone who believes that great coffee
